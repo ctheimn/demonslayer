@@ -1,0 +1,104 @@
+
+body{
+  background-color: grey;
+  background-image: url("https://wallpapercave.com/wp/wp9334120.jpg");
+}
+h1{
+  background-color : gainsboro;
+  border: 2px solid gray;
+  border-radius: 15px;
+  padding: 5px;
+  text-align: center;
+  box-shadow: 4px 4px;
+  font-size: 50px;
+  }
+h1:hover{
+  border: 5px solid gray;
+  background-color: ghostwhite;
+}
+#bas{
+  color:brown;
+}
+#eki{
+  font-size: 40px;
+  color: brown;
+}
+#ush{
+  font-size: 40px;
+}
+.char{
+  background-color: gainsboro;
+  border: 2px solid gray;
+  border-radius: 5px;
+  width: 14%;
+  text-align: center;
+  margin: 1px;
+  box-shadow: 3px 3px gray;
+  top: 10px;
+}
+#pic{
+  height: 644px;
+  width: 452px;
+  border-radius: 15px;
+  margin-left: 70%;
+  border: 3px solid gray;
+  box-shadow: 4px 4px gray;
+}
+#pic:hover{
+  border: 6px solid gray;
+}
+.char:hover{
+  border: 4px solid gray;
+  background-color:ghostwhite;
+}
+#charc{
+  color: brown;
+}
+p{
+  font-size: 30px;
+}
+table{
+  color: brown;
+  font-size: 50px;
+  border: 3px solid black;
+  background-color: grey;
+  text-align: center;
+  margin-left: 25%;
+  width: 700px;
+}
+.ds{
+  color: brown;
+}
+#mc{
+  color:brown;
+}
+caption{
+  color:  black;
+  font-size: 20px;
+}
+.sd{
+  color: black
+}
+footer{
+  color: ghostwhite;
+}
+#yorip{
+  border: 3px solid gray;
+  box-shadow: 4px 4px gray;
+  border-radius: 15px;
+  width:40%;
+  height: 45%;
+}
+#tort{
+  color: brown;
+}
+h3{
+  color: ghostwhite;
+}
+h2{
+  color: ghostwhite;
+}
+h4{
+  color: ghostwhite;
+  font-size: 30px;
+}
